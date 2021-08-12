@@ -5,6 +5,8 @@
  
  ![image](https://user-images.githubusercontent.com/48512015/129210372-20a9a29f-294e-4286-93fb-3813d7de5c35.png)
 
+(Snapshot of glider simulation)
+
 --NOTE 1--
  
 Grid::get_index() - Grid.cpp line 364 - implemented but not used as I have used an STL 2-dimensional array (vector<vector>) as my data structure to hold the information.
